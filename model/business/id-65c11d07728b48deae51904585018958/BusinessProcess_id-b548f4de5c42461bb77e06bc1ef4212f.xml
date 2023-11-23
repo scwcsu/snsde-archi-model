@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk Treatment Process"
+    id="id-b548f4de5c42461bb77e06bc1ef4212f"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Risk Management"/>
+  <properties
+      key="Description"
+      value="What the organisation does to create and maintain research projects and work packages within the TRE."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#risk-management"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.Data Set Provisioning"
+    id="id-160281e323bd46d3a87107c21d584a08">
+  <properties
+      key="Pillar"
+      value="Data Management"/>
+</archimate:Capability>

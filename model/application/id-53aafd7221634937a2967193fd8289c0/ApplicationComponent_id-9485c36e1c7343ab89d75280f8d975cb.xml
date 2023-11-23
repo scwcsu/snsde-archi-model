@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Study Management Portal"
+    id="id-9485c36e1c7343ab89d75280f8d975cb"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Study Management"/>
+  <properties
+      key="Description"
+      value="This�application component�is an online platform that provides centralised access to manage research studies including onboarding studies, control of access and administration of compliance tasks."/>
+  <properties
+      key="Description"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#study-management"/>
+</archimate:ApplicationComponent>

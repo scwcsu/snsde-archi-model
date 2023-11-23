@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.Vulnerability Management"
+    id="id-c1a2aaa6cde948e689178f6fd908e94c">
+  <properties
+      key="Pillar"
+      value="Data Management"/>
+</archimate:Capability>

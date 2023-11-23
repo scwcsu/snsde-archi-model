@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internal Audit Process"
+    id="id-f4e8d4ddcb044f16aa072ef23f9d237f"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Quality Management"/>
+  <properties
+      key="Description"
+      value="This�business process�involves an independent evaluation process within the TRE organisation that assesses and improves its internal controls, risk management, and governance."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#quality-management"/>
+</archimate:BusinessProcess>

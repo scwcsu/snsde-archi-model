@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Egress"
+    id="id-f44dbd8043634a8b8e55b4e984adadc8">
+  <properties
+      key="Capability 1"
+      value="Data Lifecycle Management"/>
+</archimate:BusinessProcess>

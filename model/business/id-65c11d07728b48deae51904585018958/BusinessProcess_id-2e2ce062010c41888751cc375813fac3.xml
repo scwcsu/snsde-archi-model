@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Allocation Process"
+    id="id-2e2ce062010c41888751cc375813fac3"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Information Governance"/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html"/>
+  <properties
+      key="Description"
+      value="This�business process�involves assigning, distributing, and managing resources (such as personnel, finances, equipment, or time) within the TRE organisation to meet information governance requirements."/>
+</archimate:BusinessProcess>

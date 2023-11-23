@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Code Version Control Application"
+    id="id-6f71598cdf824707bfde758bf67f6368"
+    documentation="Computing Technology">
+  <properties
+      key="Capability 1"
+      value="End user computing"/>
+</archimate:ApplicationComponent>

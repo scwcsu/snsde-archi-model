@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk Assessment Process"
+    id="id-5061e473f8d4498f826bbcf622f7e34e"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Risk Management"/>
+  <properties
+      key="Description"
+      value="This�business process�involves the systematic evaluation and analysis of potential risks, threats, or vulnerabilities, including their likelihood, potential impact, and the effectiveness of existing controls or mitigation measures."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#risk-management"/>
+</archimate:BusinessProcess>

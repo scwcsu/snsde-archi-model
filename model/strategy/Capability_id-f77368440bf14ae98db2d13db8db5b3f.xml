@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.SNSDE.Federation and Interoperability"
+    id="id-f77368440bf14ae98db2d13db8db5b3f"
+    documentation="Federated and Interop[erability capabilites are met when an SNSDE can both provide and consume the capability."/>

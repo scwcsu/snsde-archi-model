@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Encryption Keys"
+    id="id-99a1e20cb3e740cabb9dd23cc8e52666">
+  <properties
+      key="Capability 1"
+      value="Encryption"/>
+</archimate:BusinessObject>

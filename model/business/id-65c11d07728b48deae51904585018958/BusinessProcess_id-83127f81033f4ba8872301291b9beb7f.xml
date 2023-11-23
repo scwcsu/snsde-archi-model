@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permission Assignment Process"
+    id="id-83127f81033f4ba8872301291b9beb7f">
+  <properties
+      key="Capability 1"
+      value="Identity and Access Management"/>
+</archimate:BusinessProcess>

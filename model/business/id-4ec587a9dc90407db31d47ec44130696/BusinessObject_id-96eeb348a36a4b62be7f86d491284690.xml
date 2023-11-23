@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Identity Attributes"
+    id="id-96eeb348a36a4b62be7f86d491284690"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Member Accreditation"/>
+  <properties
+      key="Description"
+      value="This�data object�consists of characteristics or attributes associated with a user�s identity, such as username, email address, role, permissions, or affiliations."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#member-accreditation"/>
+</archimate:BusinessObject>

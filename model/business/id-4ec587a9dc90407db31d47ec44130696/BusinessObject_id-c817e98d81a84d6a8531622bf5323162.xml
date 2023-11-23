@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Change and Configuration Data"
+    id="id-c817e98d81a84d6a8531622bf5323162"
+    documentation="Computing Technology">
+  <properties
+      key="Capability 1"
+      value="Configuration Management"/>
+  <properties
+      key="Capability 2"
+      value="Quality Management"/>
+  <properties
+      key="Description"
+      value="Data related to changes made to the configuration of software or infrastructure components."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#quality-management"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Command Line Interface"
+    id="id-2f360f1c85764234895a9752ff854c7b"
+    documentation="Computing Technology">
+  <properties
+      key="Capability 1"
+      value="End user computing"/>
+</archimate:ApplicationComponent>

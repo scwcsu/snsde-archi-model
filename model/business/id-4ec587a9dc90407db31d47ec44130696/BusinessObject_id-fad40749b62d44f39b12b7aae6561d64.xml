@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy and Process Data"
+    id="id-fad40749b62d44f39b12b7aae6561d64"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Information Governance"/>
+  <properties
+      key="Description"
+      value="Information or data related to organizational policies, procedures, guidelines, or processes, often used for documentation, compliance, and governance purposes."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html"/>
+</archimate:BusinessObject>

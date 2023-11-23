@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure Deployment Process"
+    id="id-282ec79788374552b04b4e3cf8dec483"
+    documentation="Computing Technology">
+  <properties
+      key="Capability 1"
+      value="Infrastructure Management"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Study Closure Process"
+    id="id-cec3320552cc40bbb16ba855cc0d83b6"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Study Management"/>
+  <properties
+      key="Description"
+      value="This�business process�involves the formal conclusion of a research study or project, including final data analysis, reporting, documentation, and archiving."/>
+  <properties
+      key="Description"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#study-management"/>
+</archimate:BusinessProcess>

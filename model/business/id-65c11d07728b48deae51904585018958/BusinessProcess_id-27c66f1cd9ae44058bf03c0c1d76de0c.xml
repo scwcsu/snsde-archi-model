@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Certification Management Process"
+    id="id-27c66f1cd9ae44058bf03c0c1d76de0c"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Training Management and Delivery"/>
+  <properties
+      key="Description"
+      value="This�business process�involves managing and overseeing certifications or qualifications held by individuals or entities, including tracking expiry dates, renewals, and compliance requirements."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#training-delivery-and-management"/>
+</archimate:BusinessProcess>

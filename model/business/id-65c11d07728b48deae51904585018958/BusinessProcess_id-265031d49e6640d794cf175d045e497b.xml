@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure Decommissioning Process"
+    id="id-265031d49e6640d794cf175d045e497b"
+    documentation="Computing Technology">
+  <properties
+      key="Capability 1"
+      value="Infrastructure Management"/>
+</archimate:BusinessProcess>

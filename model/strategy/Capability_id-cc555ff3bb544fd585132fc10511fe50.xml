@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.Data Lifecycle Management"
+    id="id-cc555ff3bb544fd585132fc10511fe50">
+  <properties
+      key="Pillar"
+      value="Data Management"/>
+</archimate:Capability>

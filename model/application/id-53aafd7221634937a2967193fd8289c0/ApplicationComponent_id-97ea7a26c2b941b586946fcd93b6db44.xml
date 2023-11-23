@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intrusion Detection Application"
+    id="id-97ea7a26c2b941b586946fcd93b6db44"
+    documentation="Computing Technology">
+  <properties
+      key="Capability 1"
+      value="Network Management"/>
+</archimate:ApplicationComponent>

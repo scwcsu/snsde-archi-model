@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier Management and Monitoring process"
+    id="id-1b5c4a1d633a444299d4d7e6a36f1f12"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Quality Management"/>
+  <properties
+      key="Description"
+      value="This�business process�involves a structured approach to managing and monitoring relationships with external suppliers, vendors and contractors, including selection, contract management and compliance oversight."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#quality-management"/>
+</archimate:BusinessProcess>

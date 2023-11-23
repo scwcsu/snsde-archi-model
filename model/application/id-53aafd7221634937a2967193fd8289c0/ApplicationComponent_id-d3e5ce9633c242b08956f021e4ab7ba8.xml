@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authentication Application"
+    id="id-d3e5ce9633c242b08956f021e4ab7ba8"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Member Accreditation"/>
+  <properties
+      key="Description"
+      value="This�application component�is a software system that verifies and validates the identities of users or entities accessing a system through multifactor authentication."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#member-accreditation"/>
+</archimate:ApplicationComponent>

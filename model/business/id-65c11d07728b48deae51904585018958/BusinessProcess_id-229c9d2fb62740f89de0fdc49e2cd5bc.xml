@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Process"
+    id="id-229c9d2fb62740f89de0fdc49e2cd5bc"
+    documentation="Computing Technology">
+  <properties
+      key="Capability 1"
+      value="Capacity Management"/>
+</archimate:BusinessProcess>

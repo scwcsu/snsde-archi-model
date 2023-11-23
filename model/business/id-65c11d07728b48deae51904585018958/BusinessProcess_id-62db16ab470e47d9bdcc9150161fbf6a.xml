@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Onboarding Process"
+    id="id-62db16ab470e47d9bdcc9150161fbf6a"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Member Accreditation"/>
+  <properties
+      key="Description"
+      value="This�business process�involves introducing and integrating researchers and data consumers onto a TRE�s systems, processes, including training, access provisioning, and orientation."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#member-accreditation"/>
+</archimate:BusinessProcess>

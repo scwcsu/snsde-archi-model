@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quality Management Data"
+    id="id-af3633511cd2438597db4af285d2a6ce"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Information Governance"/>
+  <properties
+      key="Description"
+      value="Data collected and analyzed to assess and monitor the performance and effectiveness of quality management systems, processes, and initiatives within the TRE organisation."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html"/>
+</archimate:BusinessObject>

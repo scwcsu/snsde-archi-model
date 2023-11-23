@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity Verification Process"
+    id="id-05cacd2dbcd84cb1a051162c8d45e730"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Member Accreditation"/>
+  <properties
+      key="Description"
+      value="This�business process�involves confirming or authenticating the identity of individuals or entities, often through the verification of personal information, credentials, or biometric data."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#member-accreditation"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliance Checking Process"
+    id="id-804e5b4d60c546d8aff5cebf0512cf4f"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Study Management"/>
+  <properties
+      key="Description"
+      value="This�business process�involves verifying and ensuring adherence to applicable laws, regulations, standards, or internal policies within the TRE organisation."/>
+  <properties
+      key="Description"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#study-management"/>
+</archimate:BusinessProcess>

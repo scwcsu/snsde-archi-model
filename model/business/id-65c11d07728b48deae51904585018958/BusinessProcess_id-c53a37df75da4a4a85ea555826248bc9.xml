@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quality Management Reporting"
+    id="id-c53a37df75da4a4a85ea555826248bc9"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Quality Management"/>
+  <properties
+      key="Description"
+      value="This�business process�involves the generation and dissemination of reports or dashboards that provide insights and metrics on the performance and effectiveness of quality management processes and activities."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#quality-management"/>
+</archimate:BusinessProcess>

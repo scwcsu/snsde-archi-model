@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset Management Process"
+    id="id-a07e1ada34d8408a9639faf79637d8f9"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Quality Management"/>
+  <properties
+      key="Description"
+      value="This�business process�involves a systematic approach to acquiring, operating, maintaining, and disposing of assets within an organization, aimed at maximizing their value and minimizing risks."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#quality-management"/>
+</archimate:BusinessProcess>

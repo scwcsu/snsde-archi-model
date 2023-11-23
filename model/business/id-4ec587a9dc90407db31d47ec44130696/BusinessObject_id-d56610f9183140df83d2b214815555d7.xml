@@ -1,0 +1,14 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Meta-Data"
+    id="id-d56610f9183140df83d2b214815555d7">
+  <properties
+      key="Capability 1"
+      value="Information Search and Discovery"/>
+  <properties
+      key="Capability 2"
+      value="Data Lifecycle Management"/>
+  <properties
+      key="Capability 3"
+      value="Information Search and Discovery"/>
+</archimate:BusinessObject>

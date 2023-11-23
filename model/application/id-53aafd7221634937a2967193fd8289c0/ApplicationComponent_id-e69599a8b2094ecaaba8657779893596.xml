@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Software Tools"
+    id="id-e69599a8b2094ecaaba8657779893596"
+    documentation="Computing Technology">
+  <properties
+      key="Capability 1"
+      value="End user computing"/>
+</archimate:ApplicationComponent>

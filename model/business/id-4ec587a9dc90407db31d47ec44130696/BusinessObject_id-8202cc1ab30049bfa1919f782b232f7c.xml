@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure Asset Data"
+    id="id-8202cc1ab30049bfa1919f782b232f7c"
+    documentation="Computing Technology">
+  <properties
+      key="Capability 1"
+      value="Configuration Management"/>
+</archimate:BusinessObject>

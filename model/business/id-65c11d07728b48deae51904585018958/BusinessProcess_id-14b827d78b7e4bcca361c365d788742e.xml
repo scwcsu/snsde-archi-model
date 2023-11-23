@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Testing"
+    id="id-14b827d78b7e4bcca361c365d788742e">
+  <properties
+      key="Capability 1"
+      value="Vulnerability Management"/>
+</archimate:BusinessProcess>

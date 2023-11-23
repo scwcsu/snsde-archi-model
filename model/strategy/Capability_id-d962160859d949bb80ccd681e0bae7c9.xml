@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Physical Security"
+    id="id-d962160859d949bb80ccd681e0bae7c9">
+  <properties
+      key="Pillar"
+      value="Data Management"/>
+</archimate:Capability>

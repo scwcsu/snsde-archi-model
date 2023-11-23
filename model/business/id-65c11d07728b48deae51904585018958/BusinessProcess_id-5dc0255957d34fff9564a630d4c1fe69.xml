@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Encryption Process"
+    id="id-5dc0255957d34fff9564a630d4c1fe69">
+  <properties
+      key="Capability 1"
+      value="Encryption"/>
+</archimate:BusinessProcess>

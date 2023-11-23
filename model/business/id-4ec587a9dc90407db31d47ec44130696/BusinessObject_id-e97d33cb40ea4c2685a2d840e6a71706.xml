@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Data"
+    id="id-e97d33cb40ea4c2685a2d840e6a71706"
+    documentation="Computing Technology">
+  <properties
+      key="Capability 1"
+      value="Capacity Management"/>
+</archimate:BusinessObject>

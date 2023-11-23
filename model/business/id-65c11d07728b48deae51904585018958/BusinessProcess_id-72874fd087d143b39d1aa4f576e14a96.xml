@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Archiving"
+    id="id-72874fd087d143b39d1aa4f576e14a96">
+  <properties
+      key="Capability 1"
+      value="Data Lifecycle Management"/>
+</archimate:BusinessProcess>

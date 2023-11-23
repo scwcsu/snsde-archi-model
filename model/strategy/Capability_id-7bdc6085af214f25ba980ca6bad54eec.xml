@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.SNSDE.Federated Querying"
+    id="id-7bdc6085af214f25ba980ca6bad54eec"
+    documentation="- The ability to share data, in place, with a different SNSDE e.g. &quot;taking code to data&quot;.&#xD;&#xA;- Remote query execution as well as &quot;being remotely queried&quot;."/>

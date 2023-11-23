@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Study Register"
+    id="id-6e0a8c985c154937af56a9b00917c260"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Study Management"/>
+  <properties
+      key="Description"
+      value="This�data object�is a centralised record or database that tracks and manages information about research studies and projects."/>
+  <properties
+      key="Description"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#study-management"/>
+</archimate:BusinessObject>

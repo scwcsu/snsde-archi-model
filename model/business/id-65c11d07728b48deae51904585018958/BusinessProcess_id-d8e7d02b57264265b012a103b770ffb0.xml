@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk Ownership Process"
+    id="id-d8e7d02b57264265b012a103b770ffb0"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Risk Management"/>
+  <properties
+      key="Description"
+      value="This�business process�involves the assignment of responsibility and accountability to individuals or entities for managing and mitigating specific risks within the TRE organisation."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#risk-management"/>
+</archimate:BusinessProcess>

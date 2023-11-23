@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Electronic Quality Management System Application"
+    id="id-388d97fa1fa64532a3d22c93f70ea3b1"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Quality Management"/>
+  <properties
+      key="Description"
+      value="This�application component�is a software application or platform used to manage and automate quality management processes, including document control, corrective actions, audits, and performance tracking."/>
+  <properties
+      key="Description"
+      value="This�application component�is a software application or platform used to manage and automate quality management processes, including document control, corrective actions, audits, and performance tracking."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#quality-management"/>
+</archimate:ApplicationComponent>

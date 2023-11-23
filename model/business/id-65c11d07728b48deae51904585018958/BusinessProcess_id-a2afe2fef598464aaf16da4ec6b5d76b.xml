@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Change Process"
+    id="id-a2afe2fef598464aaf16da4ec6b5d76b"
+    documentation="Computing Technology and Information Governance">
+  <properties
+      key="Capability 1"
+      value="Infrastructure Management"/>
+  <properties
+      key="Capability 2"
+      value="Configuration Management"/>
+  <properties
+      key="Capability 3"
+      value="Quality Management"/>
+  <properties
+      key="Description"
+      value="This business process manages the addition, modification, or removal of anything that could have a direct or indirect effect�the TRE. This includes technology, process and structural change."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#quality-management"/>
+</archimate:BusinessProcess>

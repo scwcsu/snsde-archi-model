@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learning Management System"
+    id="id-dc7d2808e031405f85422249732f5ab9"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Training Management and Delivery"/>
+  <properties
+      key="Description"
+      value="This�application component�is a software platform or application that facilitates the administration, delivery, and tracking of educational or training programs, often including course materials, assessments, and learner progress tracking."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#training-delivery-and-management"/>
+</archimate:ApplicationComponent>

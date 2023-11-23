@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Management Application"
+    id="id-a184ef3f66174e0ba462d4097d356f9b"
+    documentation="Computing Technology">
+  <properties
+      key="Capability 1"
+      value="Infrastructure Management"/>
+</archimate:ApplicationComponent>

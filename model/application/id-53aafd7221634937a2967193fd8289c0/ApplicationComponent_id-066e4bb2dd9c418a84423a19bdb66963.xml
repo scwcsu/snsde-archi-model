@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meta-Data Search and Discovery Application"
+    id="id-066e4bb2dd9c418a84423a19bdb66963">
+  <properties
+      key="Capability 1"
+      value="Information Search and Discovery"/>
+</archimate:ApplicationComponent>

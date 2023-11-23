@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Deletion"
+    id="id-ccb76313c80e4be9b25e3f88d657f6cf">
+  <properties
+      key="Capability 1"
+      value="Data Lifecycle Management"/>
+</archimate:BusinessProcess>

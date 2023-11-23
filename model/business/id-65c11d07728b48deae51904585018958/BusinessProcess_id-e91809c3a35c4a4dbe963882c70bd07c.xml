@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configuration Management Process"
+    id="id-e91809c3a35c4a4dbe963882c70bd07c">
+  <properties
+      key="Capability 1"
+      value="Configuration Management"/>
+</archimate:BusinessProcess>

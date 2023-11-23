@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Artifact Management Application"
+    id="id-b4510227cbb043e7a3466bd9a764ea0e"
+    documentation="Computing Technology">
+  <properties
+      key="Capability 1"
+      value="End user computing"/>
+</archimate:ApplicationComponent>

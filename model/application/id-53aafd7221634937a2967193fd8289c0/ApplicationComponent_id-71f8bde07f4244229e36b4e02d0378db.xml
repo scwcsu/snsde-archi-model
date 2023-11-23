@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Desktop"
+    id="id-71f8bde07f4244229e36b4e02d0378db"
+    documentation="Computing Technology">
+  <properties
+      key="Capability 1"
+      value="End user computing"/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/computing_technology.html#end-user-computing-interfaces"/>
+  <properties
+      key="Description"
+      value="This group of application components is a collection of systems and software that allows people to interact with the TRE. This may include desktop, command-line and/or code-submission interfaces."/>
+</archimate:ApplicationComponent>

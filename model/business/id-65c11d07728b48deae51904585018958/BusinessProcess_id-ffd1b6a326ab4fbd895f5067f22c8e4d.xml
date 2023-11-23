@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authentication Process"
+    id="id-ffd1b6a326ab4fbd895f5067f22c8e4d">
+  <properties
+      key="Capability 1"
+      value="Identity and Access Management"/>
+</archimate:BusinessProcess>

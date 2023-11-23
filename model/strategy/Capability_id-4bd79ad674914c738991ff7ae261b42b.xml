@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.Identity and Access Management"
+    id="id-4bd79ad674914c738991ff7ae261b42b">
+  <properties
+      key="Pillar"
+      value="Data Management"/>
+</archimate:Capability>

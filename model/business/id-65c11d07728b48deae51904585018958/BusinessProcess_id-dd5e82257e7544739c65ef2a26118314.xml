@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Deployment Process"
+    id="id-dd5e82257e7544739c65ef2a26118314"
+    documentation="Computing Technology">
+  <properties
+      key="Capability 1"
+      value="End user computing"/>
+</archimate:BusinessProcess>

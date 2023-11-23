@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capacity Planning Process"
+    id="id-82b6b415e0a343b4875e9563eb48878e"
+    documentation="Computing Technology">
+  <properties
+      key="Capability 1"
+      value="Capacity Management"/>
+</archimate:BusinessProcess>

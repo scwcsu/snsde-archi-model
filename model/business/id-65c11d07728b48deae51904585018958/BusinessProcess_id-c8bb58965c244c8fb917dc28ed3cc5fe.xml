@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Output Management"
+    id="id-c8bb58965c244c8fb917dc28ed3cc5fe">
+  <properties
+      key="Capability 1"
+      value="Data Lifecycle Management"/>
+</archimate:BusinessProcess>

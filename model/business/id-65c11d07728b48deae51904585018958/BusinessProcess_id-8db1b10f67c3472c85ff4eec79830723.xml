@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Minimisation"
+    id="id-8db1b10f67c3472c85ff4eec79830723">
+  <properties
+      key="Capability 1"
+      value="Data Lifecycle Management"/>
+</archimate:BusinessProcess>

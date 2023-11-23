@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authentication Application"
+    id="id-dd307d243179415f874f57ce2bdae43d">
+  <properties
+      key="Capability 1"
+      value="Identity and Access Management"/>
+</archimate:ApplicationComponent>

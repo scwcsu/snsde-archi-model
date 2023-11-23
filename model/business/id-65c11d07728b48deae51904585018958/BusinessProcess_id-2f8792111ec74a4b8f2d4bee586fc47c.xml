@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Curriculum Creation and Management"
+    id="id-2f8792111ec74a4b8f2d4bee586fc47c"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Training Management and Delivery"/>
+  <properties
+      key="Description"
+      value="This�business process�involves designing, developing, and managing educational curricula, courses through training needs analysis for required competency."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#training-delivery-and-management"/>
+</archimate:BusinessProcess>

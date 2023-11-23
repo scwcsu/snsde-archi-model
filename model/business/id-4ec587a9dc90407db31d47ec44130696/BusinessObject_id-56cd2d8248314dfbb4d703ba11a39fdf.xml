@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Training Records"
+    id="id-56cd2d8248314dfbb4d703ba11a39fdf"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Training Management and Delivery"/>
+  <properties
+      key="Description"
+      value="This data object is a store of a TRE user or operators training records and/or competancy."/>
+  <properties
+      key="SATRE Standard Link"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#training-delivery-and-management"/>
+</archimate:BusinessObject>

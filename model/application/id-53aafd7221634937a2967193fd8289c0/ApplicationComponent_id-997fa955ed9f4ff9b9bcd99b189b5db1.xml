@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Output Classification Tool"
+    id="id-997fa955ed9f4ff9b9bcd99b189b5db1"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Study Management"/>
+  <properties
+      key="Capability 1"
+      value="Data Lifecycle Management"/>
+</archimate:ApplicationComponent>

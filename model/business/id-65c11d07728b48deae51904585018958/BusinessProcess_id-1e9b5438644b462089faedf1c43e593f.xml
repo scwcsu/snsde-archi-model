@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Study Onboarding Process"
+    id="id-1e9b5438644b462089faedf1c43e593f"
+    documentation="Information Governance">
+  <properties
+      key="Capability 1"
+      value="Study Management"/>
+  <properties
+      key="Description"
+      value="This�business process�involves onboarding or initiating a research study, including setting up necessary infrastructure, obtaining approvals, and defining protocols or methodologies."/>
+  <properties
+      key="Description"
+      value="https://satre-specification.readthedocs.io/en/latest/pillars/information_governance.html#study-management"/>
+</archimate:BusinessProcess>

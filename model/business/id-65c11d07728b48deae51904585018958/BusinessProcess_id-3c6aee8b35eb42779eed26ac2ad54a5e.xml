@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Availability Management Process"
+    id="id-3c6aee8b35eb42779eed26ac2ad54a5e">
+  <properties
+      key="Capability 1"
+      value="Infrastructure Management"/>
+</archimate:BusinessProcess>

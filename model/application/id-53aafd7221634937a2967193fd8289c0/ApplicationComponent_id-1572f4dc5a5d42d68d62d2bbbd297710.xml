@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key Management Application"
+    id="id-1572f4dc5a5d42d68d62d2bbbd297710">
+  <properties
+      key="Capability 1"
+      value="Encryption"/>
+</archimate:ApplicationComponent>
