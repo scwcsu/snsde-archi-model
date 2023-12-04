@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4.SNSDE.Data Requesting"
-    id="id-ca1eb007726e46cbbe32b627d68448d2"/>
+    id="id-ca1eb007726e46cbbe32b627d68448d2"
+    documentation="The ability of an SDE operator to repond to requests for data from researchers."/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4.SNSDE.Metadata Standardisation"
-    id="id-d7fc3ad03762420681822f18fdf9bdb5"/>
+    id="id-d7fc3ad03762420681822f18fdf9bdb5"
+    documentation="The ability of an SDE operator to publish metadata for multiple data sets in a consistant way which supports mapping/matching of metadata across multiple datasets."/>

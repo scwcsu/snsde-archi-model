@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.SNSDE.Egress AIrlock"
-    id="id-a7b6d74fee04408bb6cee43a7d69be00">
+    id="id-a7b6d74fee04408bb6cee43a7d69be00"
+    documentation="The ability of the SDE operator to allow researchers to remove data from an environment in a controlled way.">
   <properties
       key="Pillar"
       value="Computing Technology"/>

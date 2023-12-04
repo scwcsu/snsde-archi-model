@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.Configuration Management"
-    id="id-c32eb218b87640c38ace5ccd31353560">
+    id="id-c32eb218b87640c38ace5ccd31353560"
+    documentation="The ability of the TRE operator to identify, maintain and verify information on IT assets and configurations in the TRE organisation.">
   <properties
       key="Pillar"
       value="Computing Technology"/>

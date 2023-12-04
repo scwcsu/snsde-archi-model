@@ -234,4 +234,7 @@
         xsi:type="archimate:Capability"
         href="Capability_id-71885afea55f413d9498c33a8d88f782.xml#id-71885afea55f413d9498c33a8d88f782"/>
   </children>
+  <properties
+      key="Report:View:Hide"
+      value="true"/>
 </archimate:ArchimateDiagramModel>

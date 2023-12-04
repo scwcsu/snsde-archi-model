@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4.SNSDE.Metadata Quality Control"
-    id="id-c3a1de06a8c042c38ba2a233d096a29e"/>
+    id="id-c3a1de06a8c042c38ba2a233d096a29e"
+    documentation="The ability of an SDe operator to ensure that published metadata is of a quality consistant with the use case of the metadata."/>

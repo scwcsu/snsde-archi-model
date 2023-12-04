@@ -766,4 +766,7 @@
           href="BusinessProcess_id-c53a37df75da4a4a85ea555826248bc9.xml#id-c53a37df75da4a4a85ea555826248bc9"/>
     </children>
   </children>
+  <properties
+      key="Report:View:Hide"
+      value="true"/>
 </archimate:ArchimateDiagramModel>

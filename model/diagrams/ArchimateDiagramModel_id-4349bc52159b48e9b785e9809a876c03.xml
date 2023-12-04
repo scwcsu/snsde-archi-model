@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Capability View"
+    name="0.Capability View"
     id="id-4349bc52159b48e9b785e9809a876c03">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -257,7 +257,7 @@
         <bounds
             x="12"
             y="24"
-            width="85"
+            width="109"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -272,9 +272,9 @@
           lineColor="#5c5c5c"
           fillColor="#f5deaa">
         <bounds
-            x="108"
+            x="132"
             y="85"
-            width="84"
+            width="109"
             height="53"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -289,9 +289,9 @@
           lineColor="#5c5c5c"
           fillColor="#f5deaa">
         <bounds
-            x="108"
+            x="132"
             y="24"
-            width="84"
+            width="109"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -308,7 +308,7 @@
         <bounds
             x="12"
             y="84"
-            width="85"
+            width="109"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -323,9 +323,9 @@
           lineColor="#5c5c5c"
           fillColor="#f5deaa">
         <bounds
-            x="204"
+            x="252"
             y="24"
-            width="84"
+            width="109"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"

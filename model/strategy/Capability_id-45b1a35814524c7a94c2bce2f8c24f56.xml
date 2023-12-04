@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.Data Management"
-    id="id-45b1a35814524c7a94c2bce2f8c24f56">
+    id="id-45b1a35814524c7a94c2bce2f8c24f56"
+    documentation="This capability concerns the ability of the TRE operator to manage data assets and ensure information remains secure.">
   <properties
       key="Pillar"
       value="Data Management"/>

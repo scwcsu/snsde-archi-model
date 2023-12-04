@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.Encryption"
-    id="id-06e08df80da44908833f49f32b9df46f">
+    id="id-06e08df80da44908833f49f32b9df46f"
+    documentation="The ability of the TRE operator to deploy and manage encryption to protect information assets, including data for TRE research projects.">
   <properties
       key="Pillar"
       value="Data Management"/>

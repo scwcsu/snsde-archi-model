@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.SNSDE.Federated Identity"
-    id="id-a5b46068832544b6a0bdfa55e9beedb4">
+    id="id-a5b46068832544b6a0bdfa55e9beedb4"
+    documentation="The ability for an SDE operator to share the validated identity of its users/researchers with another SDE.">
   <properties
       key="Pillar"
       value="Data Management"/>

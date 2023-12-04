@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.SNSDE.Data Minimisation"
-    id="id-6e29ab7542f4413db3e6261f4da90b79"/>
+    id="id-6e29ab7542f4413db3e6261f4da90b79"
+    documentation="The ability of an SDE operator to ensure that data contains the minimum amount of identifiable data as possible"/>

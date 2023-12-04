@@ -2,4 +2,32 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SNSDE"
     id="id-b99fcbced38440cf95fe9666e5dc143c"
-    version="5.0.0"/>
+    version="4.9.0">
+  <properties
+      key="Report:Model:Hide:Business"
+      value="true"/>
+  <properties
+      key="Report:Model:Hide:Strategy"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Application"
+      value="true"/>
+  <properties
+      key="Report:Model:Hide:Technology&amp;Physical"
+      value="true"/>
+  <properties
+      key="Report:Model:Hide:Motivation"
+      value="true"/>
+  <properties
+      key="Report:Model:Hide:Implementation&amp;Migration"
+      value="true"/>
+  <properties
+      key="Report:Model:Hide:Other"
+      value="true"/>
+  <properties
+      key="Report:Model:Hide:Relations"
+      value="true"/>
+  <properties
+      key="Report:Model:Hide:ViewNumbering"
+      value="true"/>
+</archimate:ArchimateModel>

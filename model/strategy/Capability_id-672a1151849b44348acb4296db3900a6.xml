@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.SNSDE Model hosting"
-    id="id-672a1151849b44348acb4296db3900a6">
+    id="id-672a1151849b44348acb4296db3900a6"
+    documentation="The ability of an SDE operator to host models developed in the SDE so they can be used securely without removal from a secure environment.">
   <properties
       key="Pillar"
       value="Computing Technology"/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4.SNSDE.Metadata Maintainance"
-    id="id-234f33ebeff54097bf7f86247d260dfb"/>
+    id="id-234f33ebeff54097bf7f86247d260dfb"
+    documentation="The ability of an SDE operator to maintain the accuracy of metadata as data is refreshed/updated."/>

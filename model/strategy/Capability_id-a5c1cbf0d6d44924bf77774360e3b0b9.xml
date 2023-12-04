@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.SNSDE.Research Tools"
-    id="id-a5c1cbf0d6d44924bf77774360e3b0b9">
+    id="id-a5c1cbf0d6d44924bf77774360e3b0b9"
+    documentation="The ability of the SDE operator to provide a consistant are useful set of tools to researchers.">
   <properties
       key="Pillar"
       value="Computing Technology"/>

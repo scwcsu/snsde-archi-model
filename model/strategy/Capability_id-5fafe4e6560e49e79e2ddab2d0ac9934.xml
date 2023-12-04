@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.Computing Technology"
-    id="id-5fafe4e6560e49e79e2ddab2d0ac9934">
+    id="id-5fafe4e6560e49e79e2ddab2d0ac9934"
+    documentation="This pillar concerns actions taken by the TRE operator to manage TRE computing systems.">
   <properties
       key="Pillar"
       value="Computing Technology"/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.SNSDE.Cohort Discovery"
-    id="id-1a08b9b627374e8387cdb1b0b5435002"/>
+    id="id-1a08b9b627374e8387cdb1b0b5435002"
+    documentation="The ability for an SDE operator to respond to queries from researchers about specific cohorts within the data held by the SDE."/>

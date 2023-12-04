@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4.SNSDE.Federated Querying"
     id="id-7bdc6085af214f25ba980ca6bad54eec"
-    documentation="- The ability to share data, in place, with a different SNSDE e.g. &quot;taking code to data&quot;.&#xD;&#xA;- Remote query execution as well as &quot;being remotely queried&quot;."/>
+    documentation="The ability of an SDE operator to share code with another SDE so that it can be run on data under the control of the other SDE and to accept code from another SDE to run on local data. e.g &quot;Taking code to data&quot;."/>

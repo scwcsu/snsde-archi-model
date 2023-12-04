@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3. Environment Management"
-    id="id-63e3573285164b1cbc90fec25e4351ba">
+    name="3. SNSDE.Environment Management"
+    id="id-63e3573285164b1cbc90fec25e4351ba"
+    documentation="The ability of the SDE provider to maintain and apply consistent, repeatable and flexible environment configurations for a researcher to use.">
   <properties
       key="Pillar"
       value="Computing Technology"/>

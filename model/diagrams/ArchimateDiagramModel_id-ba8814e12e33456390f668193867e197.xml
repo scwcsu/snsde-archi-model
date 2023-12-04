@@ -429,4 +429,7 @@
           href="Capability_id-4bd79ad674914c738991ff7ae261b42b.xml#id-4bd79ad674914c738991ff7ae261b42b"/>
     </children>
   </children>
+  <properties
+      key="Report:View:Hide"
+      value="true"/>
 </archimate:ArchimateDiagramModel>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.SNSDE.Research data access"
     id="id-5e4f33d8dc144926ab99e6a97ec34906"
-    documentation="The capability of providing data using various methods include flat files, database storage, FHIR servers etc.">
+    documentation="The ability of an SDE operator to provide data using various methods including flat files, database storage, FHIR servers, remote code execution etc.">
   <properties
       key="Pillar"
       value="Computing Technology"/>

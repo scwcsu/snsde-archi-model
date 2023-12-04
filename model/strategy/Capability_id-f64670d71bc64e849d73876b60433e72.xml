@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.End User Computing"
-    id="id-f64670d71bc64e849d73876b60433e72">
+    id="id-f64670d71bc64e849d73876b60433e72"
+    documentation="The ability of the TRE operator to provide and manage devices, workspaces, interfaces and applications used by data consumers to interact with underlying systems and data.">
   <properties
       key="Pillar"
       value="Computing Technology"/>

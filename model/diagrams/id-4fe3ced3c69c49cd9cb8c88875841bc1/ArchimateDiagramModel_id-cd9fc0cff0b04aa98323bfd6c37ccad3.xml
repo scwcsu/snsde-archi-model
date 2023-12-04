@@ -496,4 +496,7 @@
         xsi:type="archimate:Requirement"
         href="Requirement_id-f9c163cd3f864c92a57492e066b65acd.xml#id-f9c163cd3f864c92a57492e066b65acd"/>
   </children>
+  <properties
+      key="Report:View:Hide"
+      value="true"/>
 </archimate:ArchimateDiagramModel>

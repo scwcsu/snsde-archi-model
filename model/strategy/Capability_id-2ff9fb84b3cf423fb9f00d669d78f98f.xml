@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.SNSDE.Ingress Airlock"
-    id="id-2ff9fb84b3cf423fb9f00d669d78f98f">
+    id="id-2ff9fb84b3cf423fb9f00d669d78f98f"
+    documentation="The ability of the SDE operator to allow researchers to add data to an environment in a controlled way.">
   <properties
       key="Pillar"
       value="Computing Technology"/>

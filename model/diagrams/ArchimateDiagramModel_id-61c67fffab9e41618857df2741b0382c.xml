@@ -199,4 +199,7 @@
         width="185"
         height="80"/>
   </children>
+  <properties
+      key="Report:View:Hide"
+      value="true"/>
 </archimate:ArchimateDiagramModel>

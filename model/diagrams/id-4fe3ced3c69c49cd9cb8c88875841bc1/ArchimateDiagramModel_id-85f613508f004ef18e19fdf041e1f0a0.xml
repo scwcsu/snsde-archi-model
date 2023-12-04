@@ -510,4 +510,7 @@
   </children>
   <properties
       key="Description"/>
+  <properties
+      key="Report:View:Hide"
+      value="true"/>
 </archimate:ArchimateDiagramModel>
