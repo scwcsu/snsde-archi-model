@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.SNSDE.Audit"
-    id="id-25aca9f6fa3e4bf3a29fad783472aa32">
+    id="id-25aca9f6fa3e4bf3a29fad783472aa32"
+    documentation="The ability of an SDE operator to audit all operations with in the SDE.">
   <properties
       key="Pillar"
       value="Computing Technology"/>

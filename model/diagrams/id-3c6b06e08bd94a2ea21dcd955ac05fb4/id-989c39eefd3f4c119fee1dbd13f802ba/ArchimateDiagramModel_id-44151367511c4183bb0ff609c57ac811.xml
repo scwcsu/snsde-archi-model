@@ -106,9 +106,9 @@
             href="CompositionRelationship_id-3d30cf6ad7e9437e87ef47bd5276e9b7.xml#id-3d30cf6ad7e9437e87ef47bd5276e9b7"/>
       </sourceConnections>
       <bounds
-          x="768"
+          x="792"
           y="48"
-          width="169"
+          width="181"
           height="373"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -121,7 +121,7 @@
         <bounds
             x="12"
             y="36"
-            width="145"
+            width="157"
             height="61"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -138,7 +138,7 @@
         <bounds
             x="12"
             y="120"
-            width="145"
+            width="157"
             height="61"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -155,7 +155,7 @@
         <bounds
             x="12"
             y="204"
-            width="145"
+            width="157"
             height="61"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -172,7 +172,7 @@
         <bounds
             x="12"
             y="288"
-            width="145"
+            width="157"
             height="73"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -209,9 +209,9 @@
             href="CompositionRelationship_id-110280300d834108b985bb503dd3e18a.xml#id-110280300d834108b985bb503dd3e18a"/>
       </sourceConnections>
       <bounds
-          x="588"
+          x="600"
           y="48"
-          width="169"
+          width="181"
           height="373"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -224,7 +224,7 @@
         <bounds
             x="12"
             y="48"
-            width="145"
+            width="157"
             height="61"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -241,7 +241,7 @@
         <bounds
             x="12"
             y="132"
-            width="145"
+            width="157"
             height="61"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -479,7 +479,7 @@
       <bounds
           x="408"
           y="48"
-          width="169"
+          width="181"
           height="373"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -492,7 +492,7 @@
         <bounds
             x="12"
             y="48"
-            width="145"
+            width="157"
             height="61"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -509,7 +509,7 @@
         <bounds
             x="12"
             y="132"
-            width="145"
+            width="157"
             height="61"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -526,7 +526,7 @@
         <bounds
             x="12"
             y="216"
-            width="145"
+            width="157"
             height="61"/>
         <archimateElement
             xsi:type="archimate:Capability"

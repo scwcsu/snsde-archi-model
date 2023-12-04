@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.SNSDE.Metadata Publishing"
-    id="id-10a2d7d814104720997593149240759d"/>
+    id="id-10a2d7d814104720997593149240759d"
+    documentation="The ability of an SDE operator to publish metadata related to the data available via the SDE"/>

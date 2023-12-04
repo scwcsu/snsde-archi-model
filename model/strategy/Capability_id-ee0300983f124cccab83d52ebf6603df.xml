@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4.SNSDE.Federated Data Sharing"
     id="id-ee0300983f124cccab83d52ebf6603df"
-    documentation="The ability of an SDE operator to share data, as a copy, to a different SNSDE and to accept data from  different SNSDE  e.g. &quot;Taking data to code&quot;"/>
+    documentation="The ability of an SDE operator to share data, as a copy, to a different SDE and to accept data from  different SDE  e.g. &quot;Taking data to code&quot;"/>
