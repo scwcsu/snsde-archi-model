@@ -1192,7 +1192,7 @@
         fillColor="#f5deaa">
       <bounds
           x="180"
-          y="183"
+          y="168"
           width="144"
           height="55"/>
       <archimateElement
@@ -1261,9 +1261,9 @@
       </sourceConnections>
       <bounds
           x="26"
-          y="183"
+          y="168"
           width="139"
-          height="157"/>
+          height="172"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b7d0addd393f49fdb0d0869c3bbb0297"
@@ -1274,7 +1274,7 @@
           fillColor="#f5deaa">
         <bounds
             x="11"
-            y="36"
+            y="51"
             width="121"
             height="55"/>
         <archimateElement
@@ -1291,7 +1291,7 @@
           fillColor="#f5deaa">
         <bounds
             x="11"
-            y="96"
+            y="111"
             width="121"
             height="55"/>
         <archimateElement

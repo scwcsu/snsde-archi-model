@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.Information Search and Discovery"
-    id="id-2d79c64a665e44a892cb2fc05cb37254">
+    id="id-2d79c64a665e44a892cb2fc05cb37254"
+    documentation="The ability of an SDE operator to allow data held by the SDE to be found, understood  and requested by researchers.">
   <properties
       key="Pillar"
       value="Data Management"/>

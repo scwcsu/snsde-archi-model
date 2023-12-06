@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3.SNSDE.Federated Metadata Publishing"
+    name="2.SNSDE.Federated Metadata Publishing"
     id="id-584f7898f830482ab5447fd2271980c6"
     documentation="The ability of an SDE proivider to shared it's published metadata with other SDEs and with multiple metadata portals."/>
