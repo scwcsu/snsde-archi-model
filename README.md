@@ -46,6 +46,16 @@ Where the SDEs require a new or more specifc component than provided by the refe
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- MATRURITYMODEL -->
+### Maturity Model ###
+An intention of the model is to break each capability for an SDE into a set of maturity levels. This work has started but is on-going.
+
+Maturity levels for a capability are modelled as de-compositions of a capability  as described [here](https://ris.utwente.nl/ws/portalfiles/portal/18427685/2015_Capability_based_planning_with_ArchiMate.pdf). 
+
+They also carry a suffix to the prefix index. e.g.
+
+ `x.2` shows the second level of maturity for a capability. The x indicates wheter the capability is a de-composition of a higher level capability as described in (<a href="#differences">differences to SATRE</a>)  
+
 <!-- CONTRIBUTING -->
 ### Contributing ###
 We are still working on the best way to accept contributions while maintaining a valid Archi model but contributions are still welcome.
