@@ -73,6 +73,6 @@ You can also simply open an issue with the tag "enhancement". Alternatively, To 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the Creative Commons Attribution 4.0 International Public License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
