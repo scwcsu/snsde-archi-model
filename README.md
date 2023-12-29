@@ -42,7 +42,7 @@ The focus of the model at this stage are the Motivation and Strategy layers of t
 ### Differences to SATRE ###
 Any elements added to the SATRE reference model have been prefixed with SNSDE and no elements have been removed.
 
-Where the SDEs require a new or more specifc component than provided by the reference model, these have been added with a composistion relationship. Different levels of composition have also been prefixed with and index with an index of 1 being the top componwnt with the index increasing at each level of de-composition.
+Where the SDEs require a new or more specifc component than provided by the reference model, these have been added with a composistion relationship. Different levels of composition have also been prefixed with an index - an index of 1 being the top component with the index increasing at each level of de-composition.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,7 +60,7 @@ They also carry a suffix to the prefix index. e.g.
 ### Contributing ###
 We are still working on the best way to accept contributions while maintaining a valid Archi model but contributions are still welcome.
 
-You can also simply open an issue with the tag "enhancement". Alternatively, To make additions or changes please fork the repo and create a pull request. 
+You can simply open an issue with the tag "enhancement". Alternatively, To make additions or changes please fork the repo and create a pull request. 
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingContribution`)
