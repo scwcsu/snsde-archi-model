@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SNSDE.Safe Outputs"
+    id="EAID_8701D0E0_A6CF_4b18_B81E_D9E9A04023E6"
+    documentation="The principle of ‘safe outputs’ makes sure that any summarised data taken away is checked to make sure it protects privacy.&#xA;&#xA;The safe outputs principle will be upheld by secure data environments by making sure that the results of analysis contain only aggregated, non-identifiable results that match the approvals of users and their projects."/>

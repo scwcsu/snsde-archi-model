@@ -1,0 +1,4 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SNSDE.Where access to external repositories is permitted in the SDE design, provide appropriate firewalls, only allow access from the sandbox or code provisioning zone (or equivalents) to ensure that data is not inappropriately accessed (should)"
+    id="EAID_D0CC805C_7D78_4414_806B_0A976E169EF1"/>

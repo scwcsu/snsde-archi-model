@@ -1,0 +1,4 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SNSDE.Data must be ingressed through an air lock to the data provisioning zone (or equivalent secure area within a users workspace), directly from the ‘data layer’. (must)"
+    id="EAID_3126BBB7_0DC1_46dc_9005_26DB9AE52A1C"/>

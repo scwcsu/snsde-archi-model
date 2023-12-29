@@ -1,0 +1,4 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SNSDE.Data should be checked to ensure it is sufficiently de-identified when entering the analysis layer (in accordance with project approvals) (should)"
+    id="EAID_FDF746EF_97AC_4452_814E_4BDDF41115F2"/>

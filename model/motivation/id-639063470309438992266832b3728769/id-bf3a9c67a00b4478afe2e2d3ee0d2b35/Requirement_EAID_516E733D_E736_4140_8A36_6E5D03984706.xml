@@ -1,0 +1,4 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SNSDE.Data stored and utilised in SDEs must be encrypted while at rest and in transit (must)"
+    id="EAID_516E733D_E736_4140_8A36_6E5D03984706"/>

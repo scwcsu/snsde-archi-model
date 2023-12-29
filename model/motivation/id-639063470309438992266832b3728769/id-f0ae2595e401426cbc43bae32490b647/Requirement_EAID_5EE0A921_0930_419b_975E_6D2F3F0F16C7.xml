@@ -1,0 +1,4 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SNSDE.SDEs must interoperate with any user authentication portal via the SAML or OIDC protocol and avoid non-standard technologies if possible (must)"
+    id="EAID_5EE0A921_0930_419b_975E_6D2F3F0F16C7"/>

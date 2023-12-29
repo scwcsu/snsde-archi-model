@@ -1,0 +1,4 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SNSDE.SDE functionality should support validation of queries prior to being run on data, to ensure they are functional (should)"
+    id="EAID_713B051C_7429_409e_84F4_86466A8D25E5"/>

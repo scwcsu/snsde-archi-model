@@ -1,0 +1,4 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SNSDE.SDEs must support decoupling user authentication (their ‘passport’) and approval for access (their ‘visa’) providing capabilities for approved user access to be granted and relevant parties to be automatically informed (must)"
+    id="EAID_59D39270_910B_4c08_A56D_8A146A125B93"/>
