@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3.SNSDE.Federated Querying"
+    name="3.SNSDE.Federated Analytics"
     id="id-7bdc6085af214f25ba980ca6bad54eec"
     documentation="The ability of an SDE operator to share code with another SDE so that it can be run on data under the control of the other SDE and to accept code from another SDE to run on local data. e.g &quot;Taking code to data&quot;."/>
